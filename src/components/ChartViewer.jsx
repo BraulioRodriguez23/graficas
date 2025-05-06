@@ -13,7 +13,7 @@ export default function ChartViewer({ file, title }) {
             src={src}
             title={title}
             className="w-full h-full absolute inset-0 border-0 rounded-lg"
-            style={{ minHeight: '800px 600px', minWidth:'1500px' }}
+            style={{ minHeight: '1200px', minWidth:'1500px' }}
           />
         </div>
       </div>
